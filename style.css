@@ -1,0 +1,43 @@
+
+#title{
+  background-color: grey;
+  margin: auto;
+
+}
+
+.navbar-toggler{
+  margin: auto;
+}
+
+/* Testimonials-Images */
+
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: inherit;
+
+}
+
+.dot {
+  height: 125px;
+  width: 125px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.testimonials-img{
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+  float: left;
+}
+
+#bottom-layer{
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
